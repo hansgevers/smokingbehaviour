@@ -5,7 +5,7 @@ To support reproducibility of the study, following do-files are available:
   "do.do" as the analysis file for data preparation, descriptives, and analysis 
   "output.pdf/.smcl" as the log of the do.do execution
 
-Additionally, the four images used in the paper are separately available.
+Additionally, the three figures used in the paper are separately available.
 
 Relevant hyperlinks: http://europeansocialsurvey.org/ http://stata.com
 
